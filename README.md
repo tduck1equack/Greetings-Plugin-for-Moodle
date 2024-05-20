@@ -1,10 +1,10 @@
-# User Greetings #
+# User Greetings
 
-TODO Describe the plugin shortly here.
+This is a little plugin that I created for Moodle Academy course: Web Output Essentials.
 
-TODO Provide more detailed description here.
+This plugin prints out a little greeting with some localization for Spanish and Vietnamese users.
 
-## Installing via uploaded ZIP file ##
+## Installing via uploaded ZIP file
 
 1. Log in to your Moodle site as an admin and go to _Site administration >
    Plugins > Install plugins_.
@@ -12,7 +12,7 @@ TODO Provide more detailed description here.
    extra details if your plugin type is not automatically detected.
 3. Check the plugin validation report and finish the installation.
 
-## Installing manually ##
+## Installing manually
 
 The plugin can be also installed by putting the contents of this directory to
 
@@ -27,7 +27,7 @@ Alternatively, you can run
 
 to complete the installation from the command line.
 
-## License ##
+## License
 
 2024 Tran Trung Duc <golden4gnvx@gmail.com>
 
@@ -38,7 +38,7 @@ version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with
-this program.  If not, see <https://www.gnu.org/licenses/>.
+this program. If not, see <https://www.gnu.org/licenses/>.
